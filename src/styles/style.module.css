@@ -1,0 +1,44 @@
+.box1{
+    border: 1px solid #ccc;
+    width: 80%;
+    margin: 10px auto;
+    padding: 20px 10px;
+}
+
+.movie-box{
+    width:240px;
+    height: 290px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 10px;
+}
+.movie-img{
+    width: 150px;
+    height:150px;
+   
+}
+.movies-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.post-box1{
+    border:1px solid #000;
+    border-radius: 10px;
+    margin:10px;
+    padding:5px;
+}
+.form-control input, textarea{
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    margin-bottom: 10px;
+
+}
+.box2{
+    border:1px solid #ccc;
+    padding: 5px;
+}
+.box3{
+    display: flex;
+    gap: 20px;
+}
